@@ -1,4 +1,10 @@
-Ethnic group ,Percent Economically active: In Employment: Employee ,Percent Economically Active: In Employment: Self Employed ,Percent Economically Active: Unemployed ,Percent Economically inactive 
-Mixed or Multiple ethnic groups: White and Asian,54,10,6,31
-White: Gypsy or Irish Traveller,26,15,6,53
+Ethnic group ,Percent,Employment
+Mixed or Multiple ethnic groups: White and Asian,54,Employee
+Mixed or Multiple ethnic groups: White and Asian,10,Self Employed
+Mixed or Multiple ethnic groups: White and Asian,6,Unemployed
+Mixed or Multiple ethnic groups: White and Asian,31,Inactive
+White: Gypsy or Irish Traveller,26,Employee
+White: Gypsy or Irish Traveller,15,Self Employed
+White: Gypsy or Irish Traveller,6,Unemployed
+White: Gypsy or Irish Traveller,53,Inactive
 
